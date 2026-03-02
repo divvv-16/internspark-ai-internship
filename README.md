@@ -1,4 +1,4 @@
-# Alfido Tech AI Internship
+# Internspark AI Internship
 
 ## About
 Machine Learning internship tasks completed using Python and Google Colab.
